@@ -1,0 +1,11 @@
+*.o
+*.out
+*.exe
+*.obj
+*.a
+*.so
+.vscode/
+.idea/
+cmake-build-*/
+.DS_Store
+Thumbs.db
